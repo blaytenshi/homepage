@@ -7,6 +7,8 @@ export default () => {
             color: red;
             grid-area: header;
             justify-self: center;
+            font-family: 'Blinker';
+            font-size: 5em;
         ">
             Jimmy Tang
         </div>
